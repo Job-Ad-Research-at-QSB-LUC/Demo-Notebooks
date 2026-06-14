@@ -11,7 +11,9 @@ This repository provides demonstration notebooks of how to use JAAT.
 | [AI Curriculum Analysis](ai_curriculum/AI_Curriculum_JAAT_Analysis.ipynb) | JAAT analysis of public AI course syllabi. |
 
 ## Validation Data
+
 | Validation Data | Description |
+| --- | --- |
 | [TitleMatch Validation](titlematch_validation/TitleMatch_Validation.ipynb) | TitleMatch validation workflow using public LCA title-code pairs. |
 
 ## Sources
